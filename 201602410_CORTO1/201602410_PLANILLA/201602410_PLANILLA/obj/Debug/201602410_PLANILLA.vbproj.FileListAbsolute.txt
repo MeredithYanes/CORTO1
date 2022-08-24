@@ -1,0 +1,13 @@
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_PLANILLA\201602410_PLANILLA\obj\Debug\201602410_PLANILLA.vbproj.AssemblyReference.cache
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_PLANILLA\201602410_PLANILLA\obj\Debug\201602410_PLANILLA.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_PLANILLA\201602410_PLANILLA\obj\Debug\_201602410_PLANILLA.Form1.resources
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_PLANILLA\201602410_PLANILLA\obj\Debug\_201602410_PLANILLA.Resources.resources
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_PLANILLA\201602410_PLANILLA\obj\Debug\201602410_PLANILLA.vbproj.GenerateResource.cache
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_PLANILLA\201602410_PLANILLA\obj\Debug\201602410_PLANILLA.vbproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_PLANILLA\201602410_PLANILLA\bin\Debug\201602410_PLANILLA.exe.config
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_PLANILLA\201602410_PLANILLA\bin\Debug\201602410_PLANILLA.exe
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_PLANILLA\201602410_PLANILLA\bin\Debug\201602410_PLANILLA.pdb
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_PLANILLA\201602410_PLANILLA\bin\Debug\201602410_PLANILLA.xml
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_PLANILLA\201602410_PLANILLA\obj\Debug\201602410_PLANILLA.exe
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_PLANILLA\201602410_PLANILLA\obj\Debug\201602410_PLANILLA.xml
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Nueva carpeta\201602410_PLANILLA\201602410_PLANILLA\obj\Debug\201602410_PLANILLA.pdb
